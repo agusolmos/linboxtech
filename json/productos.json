@@ -1,0 +1,46 @@
+[{
+    "id": 1,
+    "tipo": "Pedestal",
+    "nombre": "Pedestal San Martin de Tucuman",
+    "precio": 60000,
+    "foto": "./media/2.png"
+}, {
+    "id": 3,
+    "tipo": "Pedestal",
+    "nombre": "Pedestal Street Fhiter",
+    "precio": 59000,
+    "foto": "./media/3.png"
+}, {
+    "id": 4,
+    "tipo": "Pedestal",
+    "nombre": "Pedestal Mario&Sonic",
+    "precio": 57000,
+    "foto": "./media/4.png"
+}, {
+    "id": 4,
+    "tipo": "Pedestal",
+    "nombre": "Pedestal Metal Slug & Personalizado",
+    "precio": 62100,
+    "foto": "./media/5.png"
+ 
+}, {
+    "id": 5,
+    "tipo": "Pedestal",
+    "nombre": "Pedestal Dragon Ball Z & Personalizado",
+    "precio": 61525,
+    "foto": "./media/6.png"
+ 
+}, {
+    "id": 6,
+    "tipo": "Pedestal",
+    "nombre": "Peaky Blinders & Personalizado",
+    "precio": 67500,
+    "foto": "./media/8.png"
+ 
+}
+
+
+
+
+
+]
